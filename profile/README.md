@@ -1,1 +1,1 @@
-🧙 Because self-hosted GitHub Actions worker are fun.
+🧙 Because self-hosted GitHub Actions workers are fun.
